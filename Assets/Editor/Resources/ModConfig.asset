@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSYellowFace
+  title: Yellow Face
+  author: GhostSalt
+  description: "Isn't that a wonderful noise?! Well, now you can listen to that noise
+    24/7, thanks to our revolutionary headphones!\r\nListen to it while you walk!
+    Listen to it while you sleep!\r\nThese headphones can only play that noise! (Why
+    would you want to listen to anything else?)\r\nThey also have a volume up button!
+    (But no volume down button.)\r\nAnd best of all, our superglue makes them unremovable!!\r\nSo
+    yeah, buy now!!!\n\nsecond April Fool's module that i made in two hours. :)\n\nalso
+    technically TP supported, but it has no commands, so. :)"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 7b849d52e366b4646a2090e944eab998, type: 3}

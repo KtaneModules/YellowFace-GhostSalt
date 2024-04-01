@@ -1,0 +1,10 @@
+{
+  "name": "GSYellowFace-Editor",
+  "references": [
+    "GSYellowFace"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
